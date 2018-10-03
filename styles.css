@@ -1,0 +1,62 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#tiltle{
+  background: #DCDCDC;
+  color:#1D1E22;
+  font-size:46px;
+  padding: 8 px;
+  margin: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+
+}
+#main{
+  background: #EEEEEE;
+  margin:30px auto;
+}
+#img-caption{
+  margin-bottom:14px;
+  color: #1D1E22;
+  font-size: 12px;
+  text-align: center;
+
+
+}
+p,h2{
+  padding: 10px;
+  font-size: 26px;
+  text-align: center;
+  font-weight: bold;
+  color: #333333;
+
+}
+
+#tribute-info{
+  line-height: 1.6;
+  padding: 10px;
+  background: white;
+  font-family:sans-serif;
+  font-size: 16px;
+  text-align: left;
+   margin-left: auto;
+   margin-right: auto;
+   width: 75%;
+   color: #333333;
+}
+#img-div{
+  width: 100%;
+
+}
+img{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border: 3px solid gray;
+
+}
